@@ -1,7 +1,4 @@
-# problems
-Repo dedicated to solve problems
+#problem
 
-[Array](array/src)
-1. [TwoSum](array/src/TwoSum.java)
-2. [Replace Elements with greatest elements on the right side](array/src/ReplaceElementsWithGreatestElementsOnRightSide.java)
-3. [TwoSum || Input Array is sorted](array/src/TwoSum2InputArrayIsSorted.java)
+
+All the Leetcode questions can be found under leetcode directory
